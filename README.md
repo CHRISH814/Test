@@ -1,3 +1,3 @@
 # Test
 GitHubTestFunc
-Test function
+This a test function from chris's PC
